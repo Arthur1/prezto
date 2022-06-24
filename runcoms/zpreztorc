@@ -42,7 +42,7 @@ zstyle ':prezto:load' pmodule \
   'syntax-highlighting' \
   'autosuggestions' \
   'git' \
-  'ssh'
+  'ssh' \
   'history-substring-search'
 
 #
